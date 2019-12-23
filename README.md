@@ -20,17 +20,19 @@ Windows & Linux machines in the last decade.
 No installer, Unzip and run EXE
 
 # Version History
+Version .0004: Increased play area, worked on map, player has primitive shooting ability
 Version .0003: REDUCED FILE SIZE! Added stairs and base climbing system, corrected lighting, and added 3d camera perspective
 Version .0002: Fixed animation rotation (Only running one direction), knockback added and directional input incorporated
 Version .0001: Barebones, imported animation and made base world physics.
 
 # Version Roadmap
-Version .003: Make player shoot
+Version .004: Player shoot ability completed
 Version .01: Proof of concept; Barebones of each system
 Version .1: May be called an alpha
 
 # TODO
 Slashing with swords, cut off limbs of enemies.
+Make health bar limbs - when injured badly, limbs will begin to fall off untill head falls off.
 
 # Bugs/Need work
 Fix Blinking After Damage
