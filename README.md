@@ -17,7 +17,7 @@ Quit:        ESC
 Windows & Linux machines in the last decade.
 
 # Installation
-No installer, Unzip and run EXE
+No installer, Unzip 2dSideScroller.7z in root of git repository and run EXE
 
 # Version History
 Version .0004: Increased play area, worked on map, player has primitive shooting ability
